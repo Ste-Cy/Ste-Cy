@@ -1,15 +1,23 @@
-<h1 style="text-align:center">Salut 👋, Je suis Stéphanie</h1>
-<h3 style="text-align:center">Une développeuse Web full stack autodidacte 🌱</h3>
+<h1 align="center">Salut 👋, Je suis Stéphanie</h1>
+<h3 align="center">Une développeuse Web full stack autodidacte 🌱</h3>
 </br>
 
- <p style="text-align:center; display:flex; justify-content: space-around;">
-    <a href="https://codepen.io/Ste-Cy" style="color:inherit"><img src="assets/codepen.png" style="height: 32px; vertical-align:middle;margin-right: 10px"><span>Codepen</span></a>
-    <a href="https://www.linkedin.com/in/stephaniechary/" style="color:inherit"><img src="assets/linkedin.png" style="height: 32px;vertical-align:middle;margin-right: 10px"><span>Linkedin</span></a>
-  </p>
+<table align=center>
+<tr align=center>
+<td><img src="assets/codepen.png" alt="codepen" style="height:32px;" /></td>
+<td><img src="assets/linkedin.png" style="height: 32px;"></td>
+</tr>
+<tr align=center>
+<td><a href="https://codepen.io/Ste-Cy">Codepen</a></td>
+<td><a href="https://www.linkedin.com/in/stephaniechary">LinkedIn</a></td>
+</tr>
+</table>
+
 </br>
-> 📢 Je suis disponible pour un stage ➜ 📅 à partir du 17 janvier 2023
->
-> 🗺️Lieu : Grand Genève (Ou chez moi à distance)
+
+ > 📢 Je suis disponible pour un stage ➜ 📅 à partir du 17 janvier 2023
+ >
+ > 🗺️Lieu : Grand Genève (Ou chez moi à distance)
 
 </br>
 
@@ -25,7 +33,9 @@ Comme beaucoup j'ai commencé avec le cours "[Apprenez à créer votre site web 
 Mais le cours qui m'a vraiment donné des bonnes bases sur la programmation c'est le MOOC "[Initiation à la programmation (en Java)](https://fr.coursera.org/learn/initiation-programmation-java)" de l'École Polytechnique Fédérale de Lausanne. Ça m'a vraiment boosté sur la compréhension du sujet 🚀
 
 Actuellement je suis en formation chez [Digifab](https://digifab.fr/) (labellisé [Grande École du numérique](https://www.grandeecolenumerique.fr/)) pour obtenir le titre professionnel [Conception et développement d'applications](https://www.francecompetences.fr/recherche/rncp/31678/) 👩🏻‍🎓
+
 </br>
+
 ### 💻Tech Stack
 
 #### Front-end
