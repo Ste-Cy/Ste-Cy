@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, Je suis Stéphanie</h1>
-<h2 align="center">Une développeuse Web full stack autodidacte 🌱</h3>
-<p align="center"> </p>
+<h3 align="center">Une développeuse Web full stack autodidacte 🌱</h3>
+</br>
 
 > 📢 Je suis disponible pour un stage ➜  📅   à partir du 17 janvier 2023 
 >
