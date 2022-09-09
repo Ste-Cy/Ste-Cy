@@ -21,7 +21,7 @@
 
 </br>
 
-### 👩🏻 A propos de moi
+### 👩🏻 À propos de moi
 
 L'informatique a toujours été pour moi une passion ❤️
 Mais pendant longtemps j'ai cru que la programmation n'était pas fait pour moi, que c'était un truc de "matheux" 🤓
