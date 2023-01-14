@@ -15,9 +15,8 @@
 
 </br>
 
- > 📢 Je suis disponible pour un stage ➜ 📅 à partir du 17 janvier 2023
- >
- > 🗺️Lieu : Grand Genève (Ou chez moi à distance)
+ > 📢 Je suis en stage du 17 janvier au 13 mars 2023
+ 
 
 </br>
 
