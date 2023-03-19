@@ -15,7 +15,7 @@
 
 </br>
 
- > 📢 Je suis en stage du 17 janvier au 13 mars 2023
+ > 📢 Je passe devant le jury pour obtenir mon titre professionnel Conceptrice Développeuse d'applications le 22 mars 2003
  
 
 </br>
