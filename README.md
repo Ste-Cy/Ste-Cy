@@ -13,27 +13,10 @@
 </tr>
 </table>
 
-</br>
 
- > 📢 Je passe devant le jury pour obtenir mon titre professionnel Conceptrice Développeuse d'applications le 22 mars 2003
- 
-
-</br>
 
 ### 👩🏻 À propos de moi
 
-L'informatique a toujours été pour moi une passion ❤️
-Mais pendant longtemps j'ai cru que la programmation n'était pas fait pour moi, que c'était un truc de "matheux" 🤓
-
-Puis j'ai fini par franchir le pas et j'ai commencé à suivre des cours en ligne pour apprendre 👩‍💻
-
-Comme beaucoup j'ai commencé avec le cours "[Apprenez à créer votre site web avec HTML5 et CSS3](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3)" sur OpenClassrooms. Puis j'ai enchainé avec des cours sur JavaScript car c'était la suite logique 🧭
-
-Mais le cours qui m'a vraiment donné des bonnes bases sur la programmation c'est le MOOC "[Initiation à la programmation (en Java)](https://fr.coursera.org/learn/initiation-programmation-java)" de l'École Polytechnique Fédérale de Lausanne. Ça m'a vraiment boosté sur la compréhension du sujet 🚀
-
-Actuellement je suis en formation chez [Digifab](https://digifab.fr/) (labellisé [Grande École du numérique](https://www.grandeecolenumerique.fr/)) pour obtenir le titre professionnel [Conception et développement d'applications](https://www.francecompetences.fr/recherche/rncp/31678/) 👩🏻‍🎓
-
-</br>
 
 ### 💻Tech Stack
 
