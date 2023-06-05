@@ -19,7 +19,7 @@
 
 j'ai appris en autodidacte les bases de la programmation et du développement Web en suivant des cours en ligne
 
-Après une formation de 8 mois, suivi d'un stage en entreprise de 3 mois,  j'ai obtenu le titre professionnel **Conception et Développement d'Applications** (Bac +3)  
+Après une formation de 9 mois, suivi d'un stage en entreprise de 2 mois,  j'ai obtenu le titre professionnel **Conception et Développement d'Applications** (Bac +3)  
 
 ### 💻Tech Stack
 
